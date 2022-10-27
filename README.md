@@ -4,7 +4,7 @@
   <p>Hey, my name is Peter. I graduated from The Ohio State University in 2021 with a degree in Neuroscience, specializing in Computational & Cognitve Neuroscience. My coursework and research experience took advantage of mathematical models, computer simulations and theoretical analysis to better under the function of the brain and its underlying cognitive processes. This education in neuroscience was immensely valuable in my current understanding of artificaial intelligence and technology more broadly, with such neurocientific insights continuing to inspire my current work to this day.
   </p>
   <p>
-    Currently, I am continuing to develop my understanding of artificial intelligence/machine learning, with a deep interest in computer vision. However, as of recently I have developed more of an interest in web development, with a keen interest in web3, smart contracts, and blockchain technologies. My goal is to pursue a career in technology as a full stack developer working with a wide variety of software tools.
+    Currently, I am continuing to develop my understanding of artificial intelligence/machine learning, with a deep interest in computer vision. However, as of recently I have developed more of an interest in web development, with a keen interest in web3, smart contracts, and blockchain technologies, and how may these new web technologies interact with computer graphics. My goal is to pursue a career in technology as a full stack developer working with a wide variety of software tools.
   </p>
 <h2 align="left"><b>Languages and Tools:</b></h2>
 
