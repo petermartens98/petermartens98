@@ -1,6 +1,6 @@
 <h1 align="center">Peter Martens</h1>
 
-<h3 align="left"><b>Languages and Tools:</b></h3>
+<h2 align="left"><b>Languages and Tools:</b></h2>
 
 <h4>Programming Languagues</h4>
   <p align="left">
@@ -22,6 +22,4 @@
    <p align="left">
   </p>
   
-<h3 align="left"><b>Education</b></h3>
-
-<h4>
+<h2 align="left"><b>Education</b></h2>
