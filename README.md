@@ -1,5 +1,7 @@
 <h1 align="left">Peter Martens</h1>
 
+<h2 align="left"><b>About Me:</b></h2>
+
 <h2 align="left"><b>Languages and Tools:</b></h2>
 
 <h4>Programming Languagues</h4>
