@@ -1,5 +1,7 @@
-<h1 align="left">Hey 👋, I'm Peter Martens</h1>
-
+<h1 align="left">Peter Martens</h>
+<p>
+  Hey, I'm a
+</p>
 <h2 align="left"><b>Languages and Tools:</b></h2>
 
 <h4>Programming Languagues</h4>
