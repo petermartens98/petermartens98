@@ -1,7 +1,7 @@
 <h1 align="left">Peter Martens</h1>
 
 <h2 align="left"><b>About Me:</b></h2>
-  <p>Hey, I am Peter. I graduated from Ohio State University in 2021 with a degree in Neuroscience, specializing in Computational & Cognitve Neuroscience. My coursework and research experience... Current skills... Goals
+  <p>Hey, my name is Peter. I graduated from Ohio State University in 2021 with a degree in Neuroscience, specializing in Computational & Cognitve Neuroscience. My coursework and research experience... Current skills... Goals
   </p>
 <h2 align="left"><b>Languages and Tools:</b></h2>
 
