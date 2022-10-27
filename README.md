@@ -24,4 +24,4 @@
   
 <h2 align="left"><b>Education</b></h2>
 
-<h2 align="center"><b>Contact Me</b></h2>
+<h2 align="left"><b>Contact Me</b></h2>
