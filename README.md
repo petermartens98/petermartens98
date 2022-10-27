@@ -1,7 +1,10 @@
 <h1 align="left">Peter Martens</h1>
 
 <h2 align="left"><b>About Me:</b></h2>
-  <p>Hey, my name is Peter. I graduated from Ohio State University in 2021 with a degree in Neuroscience, specializing in Computational & Cognitve Neuroscience. My coursework and research experience focused on cogntive and neurobiological processes; and how such processes can be modelled both mathematically and computationally. This education in neuroscience was immensely valuable in my current understanding of technology, with such neurocientific ideas continuing to inspire my current work.
+  <p>Hey, my name is Peter. I graduated from The Ohio State University in 2021 with a degree in Neuroscience, specializing in Computational & Cognitve Neuroscience. My coursework and research experience took advantage of mathematical models, computer simulations and theoretical analysis to better under the function of the brain and its underlying cognitive processes. This education in neuroscience was immensely valuable in my current understanding of artificaial intelligence and technology more broadly, with such neurocientific insights continuing to inspire my current work to this day.
+  </p>
+  <p>
+    Currently...
   </p>
 <h2 align="left"><b>Languages and Tools:</b></h2>
 
