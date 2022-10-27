@@ -45,6 +45,9 @@
   
   <h4>Web3 / Blockchain</h4>
    <p align="left">
-  </p>
+      <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank" rel="noopener noreferrer"> 
+       <img src="https://user-images.githubusercontent.com/87671757/198395561-fc101b19-3af2-45d6-b2af-4f02d5a93fd3.png" alt="scikit_learn" width="40" height="40"/> 
+      </a> 
+   </p>
   
 <h2 align="left"><b>Contact Me</b></h2>
