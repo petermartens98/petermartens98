@@ -1,7 +1,5 @@
 <h1 align="left">Peter Martens</h1>
-<p>
-Hey 👋, My name is Peter, I am a young developer with a degree in computational/cognitive neuroscience from Ohio State University. My coursework and research primarily focused on how cognitive and neurobiological states can be modelled mathematically/computationally. I am currently interested in using this knowledge in the fields of artificial intelligence. I am currently working on a variety of projects in computer vision, computer graphics, and Web3. 
-</p>
+
 <h2 align="left"><b>Languages and Tools:</b></h2>
 
 <h4>Programming Languagues</h4>
