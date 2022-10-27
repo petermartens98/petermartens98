@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Peter Martens</h1>
+<h1 align="left">Hey 👋, I'm Peter Martens</h1>
 
 <h2 align="left"><b>Languages and Tools:</b></h2>
 
