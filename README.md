@@ -12,8 +12,17 @@
   </p>
   
   <h4>Machine Learning</h4>
+  <p align="left">
+  </p>
   
   <h4>Databases</h4>
+  <p align="left">
+  </p>
   
- 
-<h3>Education</h3>
+  <h4>Web3</h4>
+   <p align="left">
+  </p>
+  
+<h3 align="left">Education</h3>
+
+<h4>
