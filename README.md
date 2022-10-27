@@ -66,3 +66,5 @@
    </p>
   
 <h2 align="left"><b>Contact Me</b></h2>
+
+<p><b>Email: </b> petermartens4598@gmail.com
