@@ -11,7 +11,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </p>
   
-  <h4>AI and ML</h4>
+  <h4>Machine Learning</h4>
   
   <h4>Databases</h4>
   
