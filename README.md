@@ -52,7 +52,7 @@
        <img src="https://user-images.githubusercontent.com/87671757/198396579-6f73b2a0-70e2-45a7-a347-6e81b9fbb224.png" alt="truffle" width="40" height="40"/> 
      </a> 
      <a>
-       <img src="https://user-images.githubusercontent.com/87671757/198397951-0ce34239-f24b-4058-a1e2-65c64605493f.png" alt="truffle" width="40" height="40"/>
+       <img src="https://user-images.githubusercontent.com/87671757/198397951-0ce34239-f24b-4058-a1e2-65c64605493f.png" alt="truffle" width="48" height="40"/>
      </a>
    </p>
   
