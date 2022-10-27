@@ -1,7 +1,7 @@
 <h1 align="left">Peter Martens</h1>
 
 <h2 align="left"><b>About Me:</b></h2>
-  <p>Hey, my name is Peter. I graduated from Ohio State University in 2021 with a degree in Neuroscience, specializing in Computational & Cognitve Neuroscience. My coursework and research experience... Current skills... Goals
+  <p>Hey, my name is Peter. I graduated from Ohio State University in 2021 with a degree in Neuroscience, specializing in Computational & Cognitve Neuroscience. My coursework and research experience focused on cogntive and neurophysiological processes and how such processes can be modelled mathematically and computationally. This education in neuroscience was immensely valuable in my current understanding of technology, with such neurocientific ideas continuing to inspire my current work.
   </p>
 <h2 align="left"><b>Languages and Tools:</b></h2>
 
@@ -24,12 +24,7 @@
     </a>
     <a href="https://www.r-project.org/" target="_blank" rel="noopener noreferrer">
        <img src="https://user-images.githubusercontent.com/87671757/198403920-1e40095d-e71d-4703-913f-ca022d5d093e.png" alt="R" width="48" height="40"/>
-    </a>
-  
-  
-  
-
-  
+  </a>
   </p>
   
   <h4>Data Science / Machine Learning</h4>
