@@ -4,7 +4,7 @@
 
 <h4>Programming Languagues</h4>
   <p align="left">
-    <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noopener noreferrer">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/c/c_intro.php">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a>
     <a href="https://cplusplus.com/" target="_blank" rel="noopener noreferrer">
