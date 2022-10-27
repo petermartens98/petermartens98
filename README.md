@@ -58,10 +58,10 @@
        <img src="https://user-images.githubusercontent.com/87671757/198398911-56424791-25f6-4e09-810f-fb7cff2d2ed8.png" alt="openzeppelin" width="40" height="40"/>
      </a>
      <a href="https://web3js.readthedocs.io/en/v1.8.0/" target="_blank" rel="noopener noreferrer">
-       <img src="https://user-images.githubusercontent.com/87671757/198398911-56424791-25f6-4e09-810f-fb7cff2d2ed8.png" alt="web3.js" width="40" height="40"/>
+       <img src="https://user-images.githubusercontent.com/87671757/198399669-02219c50-d381-4f57-81f6-82bf07f461f7.png" alt="web3.js" width="40" height="40"/>
      </a>
-     <a href="https://www.openzeppelin.com/" target="_blank" rel="noopener noreferrer">
-       <img src="https://user-images.githubusercontent.com/87671757/198398911-56424791-25f6-4e09-810f-fb7cff2d2ed8.png" alt="metamask" width="40" height="40"/>
+     <a href="https://metamask.io/" target="_blank" rel="noopener noreferrer">
+       <img src="https://user-images.githubusercontent.com/87671757/198399753-43b25d6d-bb91-400d-be1f-0de40bd33569.png" alt="metamask" width="40" height="40"/>
      </a>
    </p>
   
