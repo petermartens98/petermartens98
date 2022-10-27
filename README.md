@@ -13,10 +13,14 @@
   
   <h4>Machine Learning</h4>
   <p align="left">
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+    </a>
   </p>
   
   <h4>Databases</h4>
   <p align="left">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </p>
   
   <h4>Web3</h4>
