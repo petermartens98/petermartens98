@@ -1,6 +1,6 @@
-<h1 align="left">Peter Martens</h>
+<h1 align="left">Peter Martens</h1>
 <p>
-  Hey, I'm a
+  Hey 👋, I'm a
 </p>
 <h2 align="left"><b>Languages and Tools:</b></h2>
 
