@@ -67,4 +67,4 @@
   
 <h2 align="left"><b>Contact Me</b></h2>
 
-<p><b>Email: </b> petermartens4598@gmail.com
+<p><b>Email: </b> <a href = "mailto:petermartens4598@gmail.com">petermartens4598@gmail.com</a><p>
