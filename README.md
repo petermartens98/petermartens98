@@ -48,7 +48,7 @@
       <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank" rel="noopener noreferrer"> 
        <img src="https://user-images.githubusercontent.com/87671757/198395561-fc101b19-3af2-45d6-b2af-4f02d5a93fd3.png" alt="solidity" width="40" height="40"/> 
       </a>
-     <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank" rel="noopener noreferrer"> 
+     <a href="https://trufflesuite.com/" target="_blank" rel="noopener noreferrer"> 
        <img src="https://user-images.githubusercontent.com/87671757/198396579-6f73b2a0-70e2-45a7-a347-6e81b9fbb224.png" alt="truffle" width="40" height="40"/> 
       </a> 
      </a> 
