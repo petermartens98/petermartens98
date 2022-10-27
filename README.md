@@ -19,6 +19,14 @@
     <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
+    <a href="https://www.r-project.org/" target="_blank" rel="noopener noreferrer">
+       <img src="https://user-images.githubusercontent.com/87671757/198403920-1e40095d-e71d-4703-913f-ca022d5d093e.png" alt="R" width="48" height="40"/>
+    </a>
+  
+  
+  
+
+  
   </p>
   
   <h4>Data Science / Machine Learning</h4>
