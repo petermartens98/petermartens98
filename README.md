@@ -1,11 +1,4 @@
 
-![GH-Peter](https://user-images.githubusercontent.com/87671757/198695780-72b379df-d25e-4966-ae88-0004222308f8.png)
-
-<body background="
-![GH-Peter](https://user-images.githubusercontent.com/87671757/198695780-72b379df-d25e-4966-ae88-0004222308f8.png)">
-<h1>Welcome to Edureka</h1>
-<p><a href="<a href="https://www.edureka.co">https://www.edureka.co</a>">Edureka.co</a></p>
-</body>
 
 
 <h2 align="left"><b>Languages and Tools:</b></h2>
