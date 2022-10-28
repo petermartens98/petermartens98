@@ -1,5 +1,5 @@
+![image](https://user-images.githubusercontent.com/87671757/198697130-7dbe02f9-80d8-4e83-a19c-345a238bd89b.png)
 
-![GH-Peter](https://user-images.githubusercontent.com/87671757/198696849-30ecffba-7b24-41df-bce4-93482247a124.png)
 
 <h2 align="left"><b>Languages and Tools:</b></h2>
 
