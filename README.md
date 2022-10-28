@@ -29,10 +29,11 @@
 <h2 align="left"><b>Languages and Tools:</b></h2>
 
 <h4>Programming Languagues</h4>
-  <p align="left">
-    <a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/c/c_intro.php">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a>
+<p align="left">
+<a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/c/c_intro.php">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+</a>
+ 
     <a href="https://cplusplus.com/" target="_blank" rel="noopener noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     </a>
@@ -48,7 +49,12 @@
     <a href="https://www.r-project.org/" target="_blank" rel="noopener noreferrer">
        <img src="https://user-images.githubusercontent.com/87671757/198403920-1e40095d-e71d-4703-913f-ca022d5d093e.png" alt="R" width="48" height="40"/>
   </a>
-  </p>
+ 
+<a href="https://fortran-lang.org/en/" target="_blank" rel="noopener noreferrer">
+<img src="https://user-images.githubusercontent.com/87671757/198721461-e5454c7c-8b9f-4943-b558-48a498796264.png" alt="Fortran" width="40" height="40"/> 
+</a>
+ 
+</p>
   
   <h4>Data Science / Machine Learning</h4>
   <p align="left">
