@@ -5,19 +5,21 @@
 <p>
 <h4>Email:  <a href = "mailto:petermartens4598@gmail.com">petermartens4598@gmail.com</a></h4>
 <h4>Socials: </h4>
+<a href="https://www.github.com/petermartens98">
+<img src="https://user-images.githubusercontent.com/87671757/198712805-20ab2a91-7c70-42d4-9d6a-8e6b38ee5b4f.png" alt="GitHub" width="40" height="40"/>
+</a>
 
 <a href="https://www.linkedin.com/in/peter-martens-51a6a5217/">
-      <img src="https://user-images.githubusercontent.com/87671757/198699808-2a8d80d6-55fd-40ed-a0ce-4ea7e963c86f.png" alt="LinkedIn" width="40" height="40"/>
- </a>
- <a href="https://t.me/petermartens98" target="_blank" rel="noopener noreferrer">
-      <img src="https://user-images.githubusercontent.com/87671757/198707078-9108cf50-af02-4f91-9188-1ef72f211de2.png" alt="Telegram" width="40" height="40"/>
- </a>
+<img src="https://user-images.githubusercontent.com/87671757/198699808-2a8d80d6-55fd-40ed-a0ce-4ea7e963c86f.png" alt="LinkedIn" width="40" height="40"/>
+</a>
+
+<a href="https://t.me/petermartens98" target="_blank" rel="noopener noreferrer">
+<img src="https://user-images.githubusercontent.com/87671757/198707078-9108cf50-af02-4f91-9188-1ef72f211de2.png" alt="Telegram" width="40" height="40"/>
+</a>
  
- 
- 
- <a href="https://twitter.com/ThePeterMartens" target="_blank" rel="noopener noreferrer">
-      <img src="https://user-images.githubusercontent.com/87671757/198701040-57b8b11c-0437-4b94-a640-27e0fa624dea.png" alt="Twitter" width="40" height="40"/>
- </a>
+<a href="https://twitter.com/ThePeterMartens" target="_blank" rel="noopener noreferrer">
+<img src="https://user-images.githubusercontent.com/87671757/198701040-57b8b11c-0437-4b94-a640-27e0fa624dea.png" alt="Twitter" width="40" height="40"/>
+</a>
 </p>
 
 <h2 align="left"><b>Languages and Tools:</b></h2>
