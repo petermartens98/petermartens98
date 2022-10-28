@@ -1,11 +1,11 @@
 ![image](https://user-images.githubusercontent.com/87671757/198697130-7dbe02f9-80d8-4e83-a19c-345a238bd89b.png)
 
-<h2 align="left"><b>Connect with Me</b></h2>
-
+<h2 align="right"><b>Connect with Me</b></h2>
+<p align="right">
 <p><b>Email: </b> <a href = "mailto:petermartens4598@gmail.com">petermartens4598@gmail.com</a><p>
 <p><b>LinkedIn: </b> <a href = "https://www.linkedin.com/in/peter-martens-51a6a5217/" target="_blank" rel="noopener noreferrer"> https://www.linkedin.com/in/peter-martens-51a6a5217/</a><p>
 <p><b>Twitter: </b> <a href = "https://twitter.com/ThePeterMartens">@ThePeterMartens</a><p>
-
+</p>
 
 <h2 align="left"><b>Languages and Tools:</b></h2>
 
