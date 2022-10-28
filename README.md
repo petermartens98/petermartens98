@@ -1,12 +1,11 @@
 ![image](https://user-images.githubusercontent.com/87671757/198697130-7dbe02f9-80d8-4e83-a19c-345a238bd89b.png)
 
 <h2 align="left"><b>Connect with Me</b></h2>
+
 <p>
 <h4>Email:  <a href = "mailto:petermartens4598@gmail.com">petermartens4598@gmail.com</a></h4>
 <h4>Socials: </h4>
-</p>
 
-<p align="left>
 <a href="https://www.linkedin.com/in/peter-martens-51a6a5217/">
       <img src="https://user-images.githubusercontent.com/87671757/198699808-2a8d80d6-55fd-40ed-a0ce-4ea7e963c86f.png" alt="LinkedIn" width="40" height="40"/>
  </a>
