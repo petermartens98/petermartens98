@@ -20,6 +20,10 @@
 <a href="https://twitter.com/ThePeterMartens" target="_blank" rel="noopener noreferrer">
 <img src="https://user-images.githubusercontent.com/87671757/198701040-57b8b11c-0437-4b94-a640-27e0fa624dea.png" alt="Twitter" width="40" height="40"/>
 </a>
+
+<a href="https://instagram.com/ThePeterMartens" target="_blank" rel="noopener noreferrer">
+<img src="https://user-images.githubusercontent.com/87671757/198713614-a0478945-cb18-4154-abce-da364a6c3366.png" alt="Instagram" width="40" height="40"/>
+</a>
 </p>
 
 <h2 align="left"><b>Languages and Tools:</b></h2>
