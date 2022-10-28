@@ -3,27 +3,27 @@
 <h2 align="left"><b>Connect with Me</b></h2>
 
 <p>
-<h4>Email:  <a href = "mailto:petermartens4598@gmail.com">petermartens4598@gmail.com</a></h4>
-<h4>Socials: </h4>
-<a href="https://www.github.com/petermartens98">
-<img src="https://user-images.githubusercontent.com/87671757/198712805-20ab2a91-7c70-42d4-9d6a-8e6b38ee5b4f.png" alt="GitHub" width="40" height="40"/>
-</a>
+ <h4>Email:  <a href = "mailto:petermartens4598@gmail.com">petermartens4598@gmail.com</a></h4>
+ <h4>Socials: </h4>
+ <a href="https://www.github.com/petermartens98">
+ <img src="https://user-images.githubusercontent.com/87671757/198712805-20ab2a91-7c70-42d4-9d6a-8e6b38ee5b4f.png" alt="GitHub" width="40" height="40"/>
+ </a>
 
-<a href="https://www.linkedin.com/in/peter-martens-51a6a5217/">
-<img src="https://user-images.githubusercontent.com/87671757/198699808-2a8d80d6-55fd-40ed-a0ce-4ea7e963c86f.png" alt="LinkedIn" width="40" height="40"/>
-</a>
+ <a href="https://www.linkedin.com/in/peter-martens-51a6a5217/">
+ <img src="https://user-images.githubusercontent.com/87671757/198699808-2a8d80d6-55fd-40ed-a0ce-4ea7e963c86f.png" alt="LinkedIn" width="40" height="40"/>
+ </a>
 
-<a href="https://t.me/petermartens98" target="_blank" rel="noopener noreferrer">
-<img src="https://user-images.githubusercontent.com/87671757/198707078-9108cf50-af02-4f91-9188-1ef72f211de2.png" alt="Telegram" width="40" height="40"/>
-</a>
- 
-<a href="https://twitter.com/ThePeterMartens" target="_blank" rel="noopener noreferrer">
-<img src="https://user-images.githubusercontent.com/87671757/198701040-57b8b11c-0437-4b94-a640-27e0fa624dea.png" alt="Twitter" width="40" height="40"/>
-</a>
+ <a href="https://t.me/petermartens98" target="_blank" rel="noopener noreferrer">
+ <img src="https://user-images.githubusercontent.com/87671757/198707078-9108cf50-af02-4f91-9188-1ef72f211de2.png" alt="Telegram" width="40" height="40"/>
+ </a>
 
-<a href="https://instagram.com/ThePeterMartens" target="_blank" rel="noopener noreferrer">
-<img src="https://user-images.githubusercontent.com/87671757/198713614-a0478945-cb18-4154-abce-da364a6c3366.png" alt="Instagram" width="40" height="40"/>
-</a>
+ <a href="https://twitter.com/ThePeterMartens" target="_blank" rel="noopener noreferrer">
+ <img src="https://user-images.githubusercontent.com/87671757/198701040-57b8b11c-0437-4b94-a640-27e0fa624dea.png" alt="Twitter" width="40" height="40"/>
+ </a>
+
+ <a href="https://instagram.com/ThePeterMartens" target="_blank" rel="noopener noreferrer">
+ <img src="https://user-images.githubusercontent.com/87671757/198713614-a0478945-cb18-4154-abce-da364a6c3366.png" alt="Instagram" width="40" height="40"/>
+ </a>
 </p>
 
 <h2 align="left"><b>Languages and Tools:</b></h2>
@@ -48,11 +48,11 @@
  </a>
 
  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
- <img src="https://user-images.githubusercontent.com/87671757/198721461-e5454c7c-8b9f-4943-b558-48a498796264.png" alt="Fortran" width="40" height="40"/> 
+ <img src="https://user-images.githubusercontent.com/87671757/198722473-c03e494c-ea55-4bf0-bc5f-a0639945bca7.png" alt="Python" width="40" height="40"/> 
  </a>
 
- <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
- <img src="https://user-images.githubusercontent.com/87671757/198721966-f04813fb-689d-4d58-8fb0-27255e9cc29c.png)" alt="Python" width="48" height="40"/>
+ <a href="https://www.r-project.org/" target="_blank" rel="noopener noreferrer">
+ <img src="https://user-images.githubusercontent.com/87671757/198722620-fa1dcd18-3f20-4b34-b98a-b4fcb228115e.png" alt="R" width="48" height="40"/>
  </a>
 
  <a href="https://fortran-lang.org/en/" target="_blank" rel="noopener noreferrer">
