@@ -16,8 +16,6 @@
  </a>
 </p>
 
-
-
 <h2 align="left"><b>Languages and Tools:</b></h2>
 
 <h4>Programming Languagues</h4>
