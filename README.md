@@ -24,6 +24,12 @@
  <a href="https://instagram.com/ThePeterMartens" target="_blank" rel="noopener noreferrer">
  <img src="https://user-images.githubusercontent.com/87671757/198713614-a0478945-cb18-4154-abce-da364a6c3366.png" alt="Instagram" width="40" height="40"/>
  </a>
+ 
+ <h4>Donations: </h4>
+  <a href="https://www.buymeacoffee.com/petermartens98" target="_blank" rel="noopener noreferrer">
+ <img src="https://user-images.githubusercontent.com/87671757/198737450-748d60eb-a6ae-4223-9844-9aac47ef8a39.png" alt="coffee" width="180" height="50"/>
+ </a>
+
 </p>
 
 <h2 align="left"><b>Languages and Tools:</b></h2>
