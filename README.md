@@ -30,29 +30,34 @@
 
 <h4>Programming Languagues</h4>
 <p align="left">
-<a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/c/c_intro.php">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a>
- 
-    <a href="https://cplusplus.com/" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com/en/" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://www.r-project.org/" target="_blank" rel="noopener noreferrer">
-       <img src="https://user-images.githubusercontent.com/87671757/198403920-1e40095d-e71d-4703-913f-ca022d5d093e.png" alt="R" width="48" height="40"/>
-  </a>
- 
-<a href="https://fortran-lang.org/en/" target="_blank" rel="noopener noreferrer">
-<img src="https://user-images.githubusercontent.com/87671757/198721461-e5454c7c-8b9f-4943-b558-48a498796264.png" alt="Fortran" width="40" height="40"/> 
-</a>
+
+ <a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/c/c_intro.php">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+ </a>
+
+ <a href="https://cplusplus.com/" target="_blank" rel="noopener noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+ </a>
+
+ <a href="https://www.java.com/en/" target="_blank" rel="noopener noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+ </a>
+
+ <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+ </a>
+
+ <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+ <img src="https://user-images.githubusercontent.com/87671757/198721461-e5454c7c-8b9f-4943-b558-48a498796264.png" alt="Fortran" width="40" height="40"/> 
+ </a>
+
+ <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+ <img src="https://user-images.githubusercontent.com/87671757/198721966-f04813fb-689d-4d58-8fb0-27255e9cc29c.png)" alt="Python" width="48" height="40"/>
+ </a>
+
+ <a href="https://fortran-lang.org/en/" target="_blank" rel="noopener noreferrer">
+ <img src="https://user-images.githubusercontent.com/87671757/198721461-e5454c7c-8b9f-4943-b558-48a498796264.png" alt="Fortran" width="40" height="40"/> 
+ </a>
  
 </p>
   
