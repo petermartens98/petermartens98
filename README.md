@@ -2,8 +2,10 @@
 
 <h2 align="left"><b>Connect with Me</b></h2>
 <b>Email: </b> <a href = "mailto:petermartens4598@gmail.com">petermartens4598@gmail.com</a>
+<br>
+<b>Socials: <br></b>
 <p align="left>
-<b>Socials: </b>
+
 <a href="" target="_blank" rel="noopener noreferrer">
       <img src="https://user-images.githubusercontent.com/87671757/198699808-2a8d80d6-55fd-40ed-a0ce-4ea7e963c86f.png" alt="LinkedIn" width="40" height="40"/>
  </a>
