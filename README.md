@@ -3,10 +3,10 @@
 <h2 align="left"><b>Connect with Me</b></h2>
 <p align="left>
  <a href="https://www.linkedin.com/in/peter-martens-51a6a5217/" target="_blank" rel="noopener noreferrer">
-      <img src="https://user-images.githubusercontent.com/87671757/198699808-2a8d80d6-55fd-40ed-a0ce-4ea7e963c86f.png" alt="LinkedIn" width="55" height="50"/>
+      <img src="https://user-images.githubusercontent.com/87671757/198699808-2a8d80d6-55fd-40ed-a0ce-4ea7e963c86f.png" alt="LinkedIn" width="40" height="40"/>
  </a>
   <a href="https://twitter.com/ThePeterMartens" target="_blank" rel="noopener noreferrer">
-      <img src="https://user-images.githubusercontent.com/87671757/198700620-874f9655-99df-4e6a-bf05-6d045162a76e.png" alt="Twitter" width="60" height="60"/>
+      <img src="https://user-images.githubusercontent.com/87671757/198701040-57b8b11c-0437-4b94-a640-27e0fa624dea.png" alt="Twitter" width="40" height="40"/>
  </a>
 </p>
 <p><b>Email: </b> <a href = "mailto:petermartens4598@gmail.com">petermartens4598@gmail.com</a><p>
