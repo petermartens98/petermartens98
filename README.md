@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/87671757/198697130-7dbe02f9-80d8-4e83-a19c-345a238bd89b.png)
 
 
-<h2 align="left"><b>~Connect with Me~</b></h2>
+<h2 align="left"><b>🤝Connect with Me</b></h2>
 
 <p>
  <h4>Email:  <a href = "mailto:petermartens4598@gmail.com">petermartens4598@gmail.com</a></h4>
@@ -33,7 +33,7 @@
 
 </p>
 
-<h2 align="left"><b>~Languages and Tools~</b></h2>
+<h2 align="left"><b>🔧Languages and Tools</b></h2>
 
 <h4>Programming Languagues</h4>
 <p align="left">
