@@ -1,7 +1,7 @@
 <h1 align="left">Peter Martens</h1>
 
 <h2 align="left"><b>About Me:</b></h2>
-  <p>Hello, my name is Peter. I graduated from The Ohio State University in 2021 with a degree in Computational & Cognitve Neuroscience. My coursework and research experience emphasized the use of mathematical models, computer simulations and theoretical analysis to better understand the function of the brain and its underlying cognitive processes. This education in neuroscience was immensely valuable in my current understanding of artificaial intelligence and technology more broadly. As of recently, I am deeply interested in web3/blockchain technologies, as well as interactive computer/web graphics. My ultimate goal is to pursue a career as a full stack developer working with a wide variety of tools/technologies.
+  <p>Hello, my name is Peter. I graduated from The Ohio State University in 2021 with a degree in Computational & Cognitve Neuroscience. My coursework and research experience emphasized the use of mathematical models, computer simulations and theoretical analysis to better understand the function of the brain and its underlying cognitive processes. This education in neuroscience was immensely valuable in my current understanding of artificaial intelligence and technology more broadly. As of recently, in addition to AI/ML, I am deeply interested in web3/blockchain technologies, as well as interactive computer/web graphics. My ultimate goal is to pursue a career as a full stack developer working with a wide variety of tools/technologies.
   </p>
 <h2 align="left"><b>Languages and Tools:</b></h2>
 
