@@ -28,7 +28,7 @@
  
  <h4>Donations: </h4>
   <a href="https://www.buymeacoffee.com/petermartens98" target="_blank" rel="noopener noreferrer">
- <img src="https://user-images.githubusercontent.com/87671757/198737450-748d60eb-a6ae-4223-9844-9aac47ef8a39.png" alt="coffee" width="180" height="50"/>
+ <img src="https://user-images.githubusercontent.com/87671757/198737450-748d60eb-a6ae-4223-9844-9aac47ef8a39.png" alt="coffee" width="180" height="40"/>
  </a>
 
 </p>
