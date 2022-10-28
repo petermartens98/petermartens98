@@ -1,4 +1,6 @@
-<h1 align="left">Peter Martens</h1>
+![image](https://user-images.githubusercontent.com/87671757/198682823-4cec6548-997d-416a-93b2-de95db554e24.png)
+
+
 
 <h2 align="left"><b>Languages and Tools:</b></h2>
 
