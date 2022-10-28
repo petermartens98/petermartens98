@@ -3,12 +3,13 @@
 <h2 align="left"><b>Connect with Me</b></h2>
 <p align="left>
  <a href="https://www.linkedin.com/in/peter-martens-51a6a5217/" target="_blank" rel="noopener noreferrer">
-      <img src="https://user-images.githubusercontent.com/87671757/198699808-2a8d80d6-55fd-40ed-a0ce-4ea7e963c86f.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
+      <img src="https://user-images.githubusercontent.com/87671757/198699808-2a8d80d6-55fd-40ed-a0ce-4ea7e963c86f.png" alt="LinkedIn" width="55" height="50"/>
+ </a>
+  <a href="https://twitter.com/ThePeterMartens" target="_blank" rel="noopener noreferrer">
+      <img src="https://user-images.githubusercontent.com/87671757/198700620-874f9655-99df-4e6a-bf05-6d045162a76e.png" alt="Twitter" width="50" height="50"/>
+ </a>
 </p>
 <p><b>Email: </b> <a href = "mailto:petermartens4598@gmail.com">petermartens4598@gmail.com</a><p>
- https://www.linkedin.com/in/peter-martens-51a6a5217/</a><p>
-<p><b>Twitter: </b> <a href = "https://twitter.com/ThePeterMartens">@ThePeterMartens</a><p>
 
 
 <h2 align="left"><b>Languages and Tools:</b></h2>
