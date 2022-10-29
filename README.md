@@ -81,6 +81,19 @@
        <img src="https://user-images.githubusercontent.com/87671757/198399753-43b25d6d-bb91-400d-be1f-0de40bd33569.png" alt="metamask" width="40" height="40"/>
      </a>
    </p>
+
+<h2 align="left"><b>GitHub Stats📊</b></h2>
+   
+[![Peters's github stats](https://github-readme-stats.vercel.app/api?username=petermartens98)](https://github.com/petermartens98/github-readme-stats)
+
+<!--
+https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
+-->
+<a href="https://github.com/petermartens98/github-stats">
+<img src="https://github.com/petermartens98/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/petermartens98/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
+
   
 <h2 align="left"><b>Connect with Me🤝</b></h2>
 
