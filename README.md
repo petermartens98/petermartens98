@@ -100,7 +100,7 @@
  <img src="https://user-images.githubusercontent.com/87671757/198712805-20ab2a91-7c70-42d4-9d6a-8e6b38ee5b4f.png" alt="GitHub" width="40" height="40"/>
  </a>
 
- <a href="https://www.linkedin.com/in/peter-martens-51a6a5217/">
+ <a href="https://www.linkedin.com/in/petermartens5498/">
  <img src="https://user-images.githubusercontent.com/87671757/198699808-2a8d80d6-55fd-40ed-a0ce-4ea7e963c86f.png" alt="LinkedIn" width="40" height="40"/>
  </a>
 
