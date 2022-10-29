@@ -5,6 +5,10 @@
 
 <h4>Programming Languagues</h4>
 <p align="left">
+ 
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+ <img src="https://user-images.githubusercontent.com/87671757/198722473-c03e494c-ea55-4bf0-bc5f-a0639945bca7.png" alt="Python" width="40" height="40"/> 
+ </a>
 
  <a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/c/c_intro.php">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -29,10 +33,6 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </a> 
-
- <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
- <img src="https://user-images.githubusercontent.com/87671757/198722473-c03e494c-ea55-4bf0-bc5f-a0639945bca7.png" alt="Python" width="40" height="40"/> 
- </a>
 
  <a href="https://www.r-project.org/" target="_blank" rel="noopener noreferrer">
  <img src="https://user-images.githubusercontent.com/87671757/198722620-fa1dcd18-3f20-4b34-b98a-b4fcb228115e.png" alt="R" width="48" height="40"/>
