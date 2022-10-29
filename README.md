@@ -86,13 +86,7 @@
    
 [![Peters's github stats](https://github-readme-stats.vercel.app/api?username=petermartens98)](https://github.com/petermartens98/github-readme-stats)
 
-<!--
-https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
--->
-<a href="https://github.com/petermartens98/github-stats">
-<img src="https://github.com/petermartens98/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/petermartens98/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petermartens98&theme=tokyonight)
 
   
 <h2 align="left"><b>Connect with Me🤝</b></h2>
