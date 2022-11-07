@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/87671757/199621924-18f21b41-6e17-4dec-addd-fa2e6d14d133.png)
-
 ## Languages and Tools🔧
 
 <h4>Programming Languagues</h4>
