@@ -1,8 +1,5 @@
 ![image](https://user-images.githubusercontent.com/87671757/199621924-18f21b41-6e17-4dec-addd-fa2e6d14d133.png)
 
-## About Me 📜
-Hello, my name is Peter. I graduated from The Ohio State University in 2021 with a degree in Computational & Cognitive Neuroscience. My coursework and research experience emphasized the use of mathematical models, computer simulations and theoretical analysis to better understand the function of the brain and its underlying cognitive processes. This education in neuroscience was immensely valuable in my current understanding of technology and provided me with a variety of hard and soft skills. My goal is to pursue a career working with a wide variety of tools/technologies.
-
 ## Languages and Tools🔧
 
 <h4>Programming Languagues</h4>
