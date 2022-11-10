@@ -92,11 +92,27 @@
  ## Connect with Me 🤝
 <p>
  <h4>Email:  <a href = "mailto:petermartens4598@gmail.com">petermartens4598@gmail.com</a></h4>
- <h4>Socials: </h4>
- <a href="https://www.github.com/petermartens98">
+ 
+ <h4>Program with Me:</h4>
+  <a href="https://www.github.com/petermartens98">
  <img src="https://user-images.githubusercontent.com/87671757/198712805-20ab2a91-7c70-42d4-9d6a-8e6b38ee5b4f.png" alt="GitHub" width="40" height="40"/>
  </a>
-
+ 
+ <a href="https://www.kaggle.com/petermartens5498">
+ <img src="https://user-images.githubusercontent.com/87671757/201171342-bace63df-75c6-4ffb-b0c1-0a4c391ed012.png" alt="GitHub" width="40" height="40"/>
+ </a>
+ 
+  <a href="https://stackoverflow.com/users/20393812/peter-martens">
+ <img src="https://user-images.githubusercontent.com/87671757/201171865-148af7e5-d88a-4760-9dc7-e63ab539029a.png" alt="GitHub" width="40" height="40"/>
+ </a>
+ 
+  <h4>Subscribe for Tutorials:</h4>
+    <a href="https://www.youtube.com/@PeterMartens98">
+ <img src="https://user-images.githubusercontent.com/87671757/201173708-edecc33f-7af9-49ed-b7b4-8bd2f9396da2.png" height="40"/>
+ </a>
+ 
+ 
+ <h4>Socials: </h4>
  <a href="https://www.linkedin.com/in/petermartens5498/">
  <img src="https://user-images.githubusercontent.com/87671757/198699808-2a8d80d6-55fd-40ed-a0ce-4ea7e963c86f.png" alt="LinkedIn" width="40" height="40"/>
  </a>
