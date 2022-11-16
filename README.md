@@ -91,7 +91,7 @@
 
  ## Connect with Me 🤝
 <p>
- <h4>Email:  <a href = "mailto:petermartens4598@gmail.com">petermartens4598@gmail.com</a></h4>
+ <h4>Email:  <a href = "mailto:petermartens5498@gmail.com">petermartens5498@gmail.com</a></h4>
  
  <h4>Program with Me:</h4>
   <a href="https://www.github.com/petermartens98">
