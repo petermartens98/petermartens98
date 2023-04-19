@@ -20,8 +20,6 @@ Ohio State Neuroscience Graduate ~ Specializing in Cognitive and Computational N
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 </p>
 
-#### Blockchain
-
 ## Contact Me:
 Email: petermartens5498@gmail.com
 
