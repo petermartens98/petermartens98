@@ -1,8 +1,17 @@
 # Peter Martens
 
 ## Summary
-Recent compuational/cognitive neuroscience graduate, possessing research experience studying bias, memory, and belief structures at the interection of human neurobiology and computational machine learning models. 
-interested in machine learning, computer vision, natural language 
+I am a recent graduate of the Computational/Cognitive Neuroscience program from The Ohio State University. I have a deep understanding of how the human brain processes and stores information. Through my research, I explored the relationship between bias, memory, and belief structures using computational machine learning models.
+
+I am interested in machine learning because of its potential to develop computer systems that learn and make decisions like humans. I am fascinated by the applications of machine learning in fields like computer vision and natural language processing.
+
+I am skilled in various statistical and computational tools, including MATLAB, Python, and R. I have strong problem-solving and critical thinking abilities, and I can communicate complex scientific concepts to both technical and non-technical audiences.
+
+In addition to my research interests, I am also interested in web development, computer vision, natural language processing, and database management. I have worked with HTML, CSS, JavaScript, and frameworks like React and Angular to design user-friendly interfaces for applications that use machine learning and natural language processing. I have experience with computer vision libraries like OpenCV and TensorFlow, as well as natural language processing libraries like NLTK and spaCy.
+
+My ability to understand and integrate different systems and technologies to solve complex problems allows me to work confidently at the intersection of multiple technologies. I am always eager to learn and grow in these areas and take on projects that require me to draw on my diverse knowledge and skills.
+
+
 
 ## Education
 #### Ohio State Neuroscience Graduate ~ Specializing in Cognitive and Computational Neuroscience
