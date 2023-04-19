@@ -1,7 +1,11 @@
 # Peter Martens
 
 ## Summary
-Ohio State Neuroscience Graduate ~ Specializing in Cognitive and Computational Neuroscience
+Recent compuational/cognitive neuroscience graduate, possessing research experience studying bias, memory, and belief structures at the interection of human neurobiology and computational machine learning models. 
+interested in machine learning, computer vision, natural language 
+
+## Education
+#### Ohio State Neuroscience Graduate ~ Specializing in Cognitive and Computational Neuroscience
 
 ## Skills:
 #### Languages
@@ -34,6 +38,8 @@ Ohio State Neuroscience Graduate ~ Specializing in Cognitive and Computational N
 
 ## Contact Me:
 Email: petermartens5498@gmail.com
+<br>
+LinkedIn: https://www.linkedin.com/in/petermartens5498/
 
 
 
