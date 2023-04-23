@@ -36,6 +36,8 @@
 Email: petermartens5498@gmail.com
 <br>
 LinkedIn: https://www.linkedin.com/in/petermartens5498/
+YouTube: https://www.youtube.com/channel/UCpmboLwMnJ1el-sCk9b9yAw
+LeetCode: https://leetcode.com/petermartens98/
 
 
 
