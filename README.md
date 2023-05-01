@@ -5,7 +5,7 @@ PeterChat - React Firebase Realtime Private Messaging Web Application -
 
 PeterTube - Video Sharing Platform React Frontend - https://petertube.ue.r.appspot.com/
 
-Peter's Tech Shop - Ecommerce React Frontend - 
+Peter's Tech Shop - Ecommerce React Frontend - https://peters-ecommerce.uc.r.appspot.com/
 
 Autism Diagnosis Predictive Model Web App - 
 
