@@ -1,7 +1,13 @@
 # Peter Martens
 
 ## App Deployments
+PeterChat - React Firebase Realtime Private Messaging Web Application - 
+
 PeterTube - Video Sharing Platform React Frontend - https://petertube.ue.r.appspot.com/
+
+Peter's Tech Shop - Ecommerce React Frontend - 
+
+Autism Diagnosis Predictive Model Web App - 
 
 ## Education
 #### Ohio State Neuroscience Graduate ~ Specializing in Cognitive and Computational Neuroscience
