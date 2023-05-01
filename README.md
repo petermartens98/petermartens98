@@ -1,7 +1,7 @@
 # Peter Martens
 
 ## App Deployments
-PeterChat - React Firebase Realtime Private Messaging Web Application - 
+PeterChat - React Firebase Realtime Private Messaging Web Application - https://peter-chat-f09bb.web.app/
 
 PeterTube - Video Sharing Platform React Frontend - https://petertube.ue.r.appspot.com/
 
