@@ -7,7 +7,7 @@ PeterTube - Video Sharing Platform React Frontend - https://petertube.ue.r.appsp
 
 Peter's Tech Shop - Ecommerce React Frontend - https://peters-ecommerce.uc.r.appspot.com/
 
-Autism Diagnosis Predictive Model Web App - 
+Autism Diagnosis Predictive Model Web App - Deployment coming soon
 
 ## Education
 #### Ohio State Neuroscience Graduate ~ Specializing in Cognitive and Computational Neuroscience
