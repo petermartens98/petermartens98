@@ -4,7 +4,7 @@
 
 Tesla Landing Page Clone - React Frontend Web/Mobile Application - https://teslaclone-385601.uc.r.appspot.com/
 
-Nike Landing Page Clone - React Frontend Web/Mobile Application - 
+Nike Landing Page Clone - React Frontend Web/Mobile Application - https://nikec-385804.uc.r.appspot.com/
 
 PeterChat - React Firebase Realtime Private Messaging Web Application - https://peter-chat-f09bb.web.app/
 
