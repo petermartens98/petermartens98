@@ -12,7 +12,7 @@ PeterChat - React Firebase Realtime Private Messaging Web Application - https://
 
 Peter's Tech Shop - Ecommerce React Frontend - https://peters-ecommerce.uc.r.appspot.com/
 
-Space Jam 1996 Promotional Site Clone - React Frontend Web Application - Deployment Coming Soon
+Space Jam 1996 Promotional Site Clone - React Frontend Web Application - https://spacejamclone.uc.r.appspot.com/
 
 Autism Diagnosis Predictive Model Web App - Deployment coming soon
 
