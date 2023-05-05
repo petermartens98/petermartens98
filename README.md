@@ -6,9 +6,9 @@ Nike Landing Page Clone - React Frontend Web/Mobile Application - https://nikec-
 
 Tesla Landing Page Clone - React Frontend Web/Mobile Application - https://teslaclone-385601.uc.r.appspot.com/
 
-PeterChat - React Firebase Realtime Private Messaging Web Application - https://peter-chat-f09bb.web.app/
+PeterTube - YouTube Clone - Video Sharing Platform React Frontend - https://petertube.ue.r.appspot.com/
 
-PeterTube - Video Sharing Platform React Frontend - https://petertube.ue.r.appspot.com/
+PeterChat - React Firebase Realtime Private Messaging Web Application - https://peter-chat-f09bb.web.app/
 
 Peter's Tech Shop - Ecommerce React Frontend - https://peters-ecommerce.uc.r.appspot.com/
 
