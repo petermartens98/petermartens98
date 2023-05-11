@@ -4,7 +4,7 @@
 
 PeterChat - React Firebase Realtime Private Messaging Web Application - https://peter-chat-f09bb.web.app/
 
-Space Jam 1996 Promotional Site Clone - React Frontend Web Application - https://spacejamclone.uc.r.appspot.com/
+Space Jam 1996 Promo Site Remaster (React) - https://spacejamclone.uc.r.appspot.com/
 
 PeterTube - YouTube Clone - Video Sharing Platform React Frontend - https://petertube.ue.r.appspot.com/
 
