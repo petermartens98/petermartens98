@@ -1,22 +1,5 @@
 # Peter Martens
 
-## App Deployments
-
-PeterChat - React Firebase Realtime Private Messaging Web Application - https://peter-chat-f09bb.web.app/
-
-Space Jam 1996 Promo Site Remaster (React) - https://spacejamclone.uc.r.appspot.com/
-
-PeterTube - YouTube Clone - Video Sharing Platform React Frontend - https://petertube.ue.r.appspot.com/
-
-Tesla Landing Page Clone - React Frontend Web/Mobile Application - https://teslaclone-385601.uc.r.appspot.com/
-
-Nike Landing Page Clone - React Frontend Web/Mobile Application - https://nikec-385804.uc.r.appspot.com/
-
-Peter's Tech Shop - Ecommerce React Frontend - https://peters-ecommerce.uc.r.appspot.com/
-
-
-Autism Diagnosis Predictive Model Web App - Deployment coming soon
-
 ## Education
 #### Ohio State Neuroscience Graduate ~ Specializing in Cognitive and Computational Neuroscience
 
