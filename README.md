@@ -1,9 +1,5 @@
 # Peter Martens
 
-## Education
-#### Ohio State Neuroscience Graduate ~ Specializing in Cognitive and Computational Neuroscience
-
-
 ## Contact Me:
 Email: petermartens5498@gmail.com
 <br>
