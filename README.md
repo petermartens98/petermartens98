@@ -2,8 +2,6 @@
 
 ## About
 
-Full-Stack AI Software Engineer with 3+ years building production AI systems at scale. I develop multimodal AI solutions spanning video analysis, conversational agents, and intelligent data pipelines—deployed systems have processed 12M+ user interactions and analyzed 1,000+ hours of video content.
-
 **Education**
 - B.Sc. in Cognitive/Computational Neuroscience, Ohio State University
 - Google Data Analytics Professional Certificate
