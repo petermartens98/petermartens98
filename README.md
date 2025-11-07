@@ -1,6 +1,6 @@
 # Peter Martens
 
-## About
+## About Me
 
 **Education**
 - B.Sc. in Cognitive/Computational Neuroscience, Ohio State University
