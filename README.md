@@ -13,7 +13,7 @@ Full-Stack AI Software Engineer with 3+ years building production AI systems at 
 - Full Stack AI Software Developer @ WeWatch
 - AI Software Developer @ Latitude Research / Lumiere AI  
 - AI Software Developer @ StarMorph AI / Precision Consulting
-- AI Research Assistant @ Model Based Cognitive Neuro Lab (OSU)
+- AI Research Assistant @ Model Based Cognitive Neuro Lab (Ohio Starte)
 
 ## Connect
 
