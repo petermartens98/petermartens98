@@ -10,7 +10,7 @@
 **Previous Roles**
 - Full Stack AI Software Developer @ WeWatch
 - AI Software Developer @ Latitude Research / Lumiere AI  
-- AI Software Developer @ StarMorph AI / Precision Consulting
+- AI Software Developer @ StarMorph AI
 - AI Research Assistant @ Model Based Cognitive Neuro Lab (Ohio Starte)
 
 ## Connect
