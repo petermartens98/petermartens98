@@ -18,7 +18,3 @@
 **Email:** petermartens5498@gmail.com
 
 **LinkedIn:** [linkedin.com/in/petermartens5498](https://www.linkedin.com/in/petermartens5498/)
-
----
-
-*Open to collaboration opportunities in AI/ML engineering, full-stack development, and innovative product development.*
